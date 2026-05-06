@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Kubernetes, AWS, Terraform & System Design
 - 👯 I’m looking to collaborate on Open Source and Cloud Projects
 - 💬 Ask me about React, Node.js, Docker, AWS & DevOps
-- 📫 How to reach me: yourmail@gmail.com
+- 📫 How to reach me: ritikagambhir372@gmail.com
 - ⚡ Fun fact: I love building and deploying scalable applications
 
 ## 🚀 Tech Stack
@@ -25,7 +25,7 @@ React.js, Tailwind CSS, BootStrap
 Node.js, Express.js
 
 ### 🗄️ Databases
-MongoDB, PostgreSQL
+MongoDB, PostgreSQL, MYSQL
 
 ### ☁️ DevOps & Cloud
 Docker, Kubernetes, Jenkins, GitHub Actions, AWS, Terraform

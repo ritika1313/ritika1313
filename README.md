@@ -16,10 +16,10 @@
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
-Python, JavaScript, TypeScript
+Python, JavaScript, C, C++, Java
 
 ### 🌐 Frontend Development
-React.js, Next.js, Tailwind CSS
+React.js, Tailwind CSS, BootStrap
 
 ### ⚙️ Backend Development
 Node.js, Express.js

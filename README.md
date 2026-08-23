@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- Header -->
+💻 Ritika Gambhir
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,50:0B3B5A,100:00B4D8&height=230&section=header&text=Ritika%20Gambhir&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20DevOps%20Enthusiast&descAlignY=58&descSize=20" width="100%" alt="Ritika Gambhir Header"/>
+Full Stack Developer | AI & DevOps Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Turning+ideas+into+intelligent+applications+%F0%9F%A4%96;Building+scalable+web+applications+%F0%9F%9A%80;Exploring+Agentic+AI+%F0%9F%A4%96;Learning+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F" alt="Typing Animation"/>
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Turning+ideas+into+intelligent+applications+%F0%9F%A4%96;Building+scalable+web+applications+%F0%9F%9A%80;Exploring+Agentic+AI+%F0%9F%A4%96;Learning+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F" alt="Typing Animation"/>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ritika1313&label=PROFILE%20VIEWS&color=00B4D8&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/ritika1313?label=FOLLOWERS&style=for-the-badge&color=0077B6" alt="Followers"/>
@@ -113,6 +111,7 @@ fun_fact: >
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
@@ -131,10 +130,11 @@ fun_fact: >
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
@@ -143,83 +143,45 @@ fun_fact: >
 
 <div align="center">
 
-🤖 Area
+<table>
+<tr>
+<th>🤖 Area</th>
+<th>🌱 Focus</th>
+</tr>
 
-🌱 Focus
+<tr>
+<td><b>Artificial Intelligence</b></td>
+<td>Generative AI & Agentic AI</td>
+</tr>
 
-Artificial Intelligence
+<tr>
+<td><b>Problem Solving</b></td>
+<td>DSA & SQL</td>
+</tr>
 
-Generative AI & Agentic AI
+<tr>
+<td><b>Cloud</b></td>
+<td>AWS</td>
+</tr>
 
-Problem Solving
+<tr>
+<td><b>DevOps</b></td>
+<td>Docker • Kubernetes • Jenkins • Terraform</td>
+</tr>
 
-DSA & SQL
+<tr>
+<td><b>Backend</b></td>
+<td>Spring Boot • FastAPI • REST APIs</td>
+</tr>
 
-Cloud
+<tr>
+<td><b>Architecture</b></td>
+<td>System Design • Scalable Applications</td>
+</tr>
 
-AWS
-
-DevOps
-
-Docker • Kubernetes • Jenkins • Terraform
-
-Backend
-
-Spring Boot • REST APIs
-
-Architecture
-
-System Design • Scalable Applications
-
-</div>
-
-🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ritika1313/Land-Insight">
-<img src="https://img.shields.io/badge/🌾%20LAND--INSIGHT-Land%20%26%20Irrigation-00B4D8?style=for-the-badge" alt="Land Insight"/>
-</a>
-
-<a href="https://github.com/ritika1313/Operating">
-<img src="https://img.shields.io/badge/🖥️%20OPERATING-Process%20Monitoring-0077B6?style=for-the-badge" alt="Operating"/>
-</a>
-
-<a href="https://github.com/ritika1313/WEB">
-<img src="https://img.shields.io/badge/🌐%20WEB-Web%20Development-0096C7?style=for-the-badge" alt="WEB"/>
-</a>
+</table>
 
 </div>
-
-🌾 Land Insights Explorer
-
-An interactive web application for exploring land holdings, irrigation sources and cropping patterns across India.
-
-Tech: HTML • Tailwind CSS • JavaScript • Chart.js • Leaflet.js
-
-🖥️ Real-Time Process Monitoring Dashboard
-
-An Operating System project focused on monitoring processes and visualizing system activity in real time.
-
-Tech: JavaScript • HTML • CSS
-
-🌐 Web Development Projects
-
-A collection of frontend and web-development projects built while learning and practicing modern web technologies.
-
-Tech: HTML • CSS • JavaScript • React
-
-👨‍💼 Employee Management System
-
-Backend application for managing employee information using REST APIs and database integration.
-
-Tech: Java • Spring Boot • PostgreSQL • Maven • Postman
-
-🤖 Study Planner Agent
-
-AI-powered study planning application designed around an Agentic AI workflow to generate personalized study plans.
-
-Tech: Python • FastAPI • AI/LLMs
 
 📊 GitHub Stats
 
@@ -247,15 +209,15 @@ Tech: Python • FastAPI • AI/LLMs
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritika1313&bg_color=061826&color=7DD3FC&line=00B4D8&point=ffffff&area=true&hide_border=true&custom_title=Ritika%20Gambhir's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritika1313&bg_color=061826&color=7DD3FC&line=00B4D8&point=ffffff&area=true&hide_border=true&custom_title=Ritika%20Gambhir%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 
 </div>
 
-⚡ Dev Quote of the Day
+⚡ Dev Quote
 
 <div align="center">
 
-💙 "Build with curiosity. Learn with purpose. Create with impact."
+💙 "Turning ideas into intelligent applications 🤖"
 
 <br>
 
@@ -263,15 +225,11 @@ Tech: Python • FastAPI • AI/LLMs
 
 </div>
 
-<br>
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,50:0B3B5A,100:00B4D8&height=130&section=footer" width="100%" alt="Footer"/>
 
 Thanks for visiting! 🚀
 
-Turning ideas into intelligent applications 🤖
+Keep Learning • Keep Building • Keep Growing 🌱
 
 ⭐ If you find my work interesting, consider giving a repository a star!
 

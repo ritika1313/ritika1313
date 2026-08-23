@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- ==================== HEADER ==================== -->
+<!-- Upload header.svg to the SAME repository as README.md -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=220&section=header&text=Ritika%20Gambhir&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20DevOps%20Enthusiast&descAlignY=60&descSize=20" width="100%" alt="Ritika Gambhir Header"/>
+<img src="./header.svg" width="100%" alt="Ritika Gambhir Header"/>
 
 <br>
 
-<h2>
-  <code>Turning ideas into intelligent applications 🤖</code>
-</h2>
+<h2><code>Turning ideas into intelligent applications 🤖</code></h2>
 
 <br>
 
@@ -105,7 +103,6 @@ fun_fact: >
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 <br><br>
@@ -147,43 +144,33 @@ fun_fact: >
 
 <div align="center">
 
-<table>
-<tr>
-<th>🤖 Area</th>
-<th>🌱 Focus</th>
-</tr>
+🤖 Area
 
-<tr>
-<td><b>Artificial Intelligence</b></td>
-<td>Generative AI & Agentic AI</td>
-</tr>
+🌱 Focus
 
-<tr>
-<td><b>Problem Solving</b></td>
-<td>DSA & SQL</td>
-</tr>
+Artificial Intelligence
 
-<tr>
-<td><b>Cloud</b></td>
-<td>AWS</td>
-</tr>
+Generative AI & Agentic AI
 
-<tr>
-<td><b>DevOps</b></td>
-<td>Docker • Kubernetes • Jenkins • Terraform</td>
-</tr>
+Problem Solving
 
-<tr>
-<td><b>Backend</b></td>
-<td>Spring Boot • FastAPI • REST APIs</td>
-</tr>
+DSA & SQL
 
-<tr>
-<td><b>Architecture</b></td>
-<td>System Design • Scalable Applications</td>
-</tr>
+Cloud
 
-</table>
+AWS
+
+DevOps
+
+Docker • Kubernetes • Jenkins • Terraform
+
+Backend
+
+Spring Boot • FastAPI • REST APIs
+
+Architecture
+
+System Design • Scalable Applications
 
 </div>
 
@@ -191,13 +178,8 @@ fun_fact: >
 
 <div align="center">
 
-<a href="https://github.com/ritika1313">
-<img src="https://img.shields.io/badge/Repositories-View%20All-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
-
-<a href="https://github.com/ritika1313?tab=stars">
-<img src="https://img.shields.io/badge/Starred%20Repositories-View-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Starred Repositories"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=ritika1313&show_icons=true&theme=tokyonight&hide_border=true&title_color=C084FC&icon_color=8A2BE2&text_color=FFFFFF" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika1313&layout=compact&theme=tokyonight&hide_border=true&title_color=C084FC&text_color=FFFFFF" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -214,18 +196,6 @@ fun_fact: >
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritika1313&bg_color=0D1117&color=C084FC&line=8A2BE2&point=ffffff&area=true&hide_border=true&custom_title=Ritika%20Gambhir%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
-
-</div>
-
-⚡ Dev Quote
-
-<div align="center">
-
-💜 "Turning ideas into intelligent applications 🤖"
-
-<br>
-
-— Ritika Gambhir
 
 </div>
 

@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Upload header.svg to the SAME repository as README.md -->
+👩‍💻 Ritika Gambhir
 
-<img src="./header.svg" width="100%" alt="Ritika Gambhir Header"/>
-
-<br>
+Full Stack Developer | AI & DevOps Enthusiast
 
 <h2><code>Turning ideas into intelligent applications 🤖</code></h2>
 

@@ -1,16 +1,20 @@
 <div align="center">
 
-💻 Ritika Gambhir
+<!-- ==================== HEADER ==================== -->
 
-Full Stack Developer | AI & DevOps Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Turning+ideas+into+intelligent+applications+%F0%9F%A4%96;Building+scalable+web+applications+%F0%9F%9A%80;Exploring+Agentic+AI+%F0%9F%A4%96;Learning+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F" alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=220&section=header&text=Ritika%20Gambhir&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20DevOps%20Enthusiast&descAlignY=60&descSize=20" width="100%" alt="Ritika Gambhir Header"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ritika1313&label=PROFILE%20VIEWS&color=00B4D8&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/ritika1313?label=FOLLOWERS&style=for-the-badge&color=0077B6" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/ritika1313?label=STARS&style=for-the-badge&color=0096C7" alt="Stars"/>
+<h2>
+  <code>Turning ideas into intelligent applications 🤖</code>
+</h2>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ritika1313&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/ritika1313?label=FOLLOWERS&style=for-the-badge&color=5B21B6" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/ritika1313?label=STARS&style=for-the-badge&color=6D28D9" alt="Stars"/>
 
 </div>
 
@@ -188,11 +192,11 @@ fun_fact: >
 <div align="center">
 
 <a href="https://github.com/ritika1313">
-<img src="https://img.shields.io/badge/Repositories-View%20All-00B4D8?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+<img src="https://img.shields.io/badge/Repositories-View%20All-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 <a href="https://github.com/ritika1313?tab=stars">
-<img src="https://img.shields.io/badge/Starred%20Repositories-View-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="Starred Repositories"/>
+<img src="https://img.shields.io/badge/Starred%20Repositories-View-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Starred Repositories"/>
 </a>
 
 </div>
@@ -201,7 +205,7 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritika1313&theme=dark&hide_border=true&ring=00D9FF&fire=00B4D8&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritika1313&theme=dark&hide_border=true&ring=8A2BE2&fire=00B4D8&currStreakLabel=8A2BE2&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 </div>
 
@@ -209,7 +213,7 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritika1313&bg_color=061826&color=7DD3FC&line=00B4D8&point=ffffff&area=true&hide_border=true&custom_title=Ritika%20Gambhir%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritika1313&bg_color=0D1117&color=C084FC&line=8A2BE2&point=ffffff&area=true&hide_border=true&custom_title=Ritika%20Gambhir%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -217,7 +221,7 @@ fun_fact: >
 
 <div align="center">
 
-💙 "Turning ideas into intelligent applications 🤖"
+💜 "Turning ideas into intelligent applications 🤖"
 
 <br>
 

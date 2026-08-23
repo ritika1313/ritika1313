@@ -168,8 +168,8 @@ fun_fact:
 | 🤖 Artificial Intelligence | Generative AI & Agentic AI             |
 | 🧠 Problem Solving         | DSA & SQL                              |
 | ☁️ Cloud                   | AWS                                    |
-| 🚀 DevOps                  | Docker, Kubernetes, Jenkins, Terraform |
-| ⚙️ Backend                 | Spring Boot & REST APIs                |
+| 🚀 DevOps                  | Docker                                 |
+| ⚙️ Backend                 | Spring Boot & REST APIs , FAST APIs   |
 | 🏗️ Architecture           | System Design & Scalable Applications  |
 
 </div>
@@ -189,45 +189,6 @@ fun_fact:
 </a>
 
 </div>
-
-### 🌾 Land Insights Explorer
-
-Interactive web application for exploring **land holdings, irrigation sources and cropping patterns across India**.
-
-**Tech:** HTML • Tailwind CSS • JavaScript • Chart.js • Leaflet.js
-
----
-
-### 🖥️ Real-Time Process Monitoring Dashboard
-
-An Operating System project designed to monitor processes and visualize system activity in real time.
-
-**Tech:** JavaScript • HTML • CSS
-
----
-
-### 👨‍💼 Employee Management System
-
-Backend application for managing employee information using REST APIs and database integration.
-
-**Tech:** Java • Spring Boot • PostgreSQL • Maven • Postman
-
----
-
-### 🤖 Study Planner Agent
-
-AI-powered study planning application that uses an **Agentic AI workflow** to generate personalized study plans.
-
-**Tech:** Python • FastAPI • AI/LLMs
-
----
-
-### 👨‍⚕️ Doctor Appointment Platform
-
-Full-stack application for doctor discovery, appointments and reviews.
-
-**Tech:** MongoDB • Express.js • React • Node.js
-
 ---
 
 # 📊 GitHub Stats

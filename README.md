@@ -1,8 +1,8 @@
 <div align="center">
 
-👩‍💻 Ritika Gambhir
+<h1><b>👩‍💻 Ritika Gambhir</b></h1>
 
-Full Stack Developer | AI & DevOps Enthusiast
+<h2><b>Full Stack Developer | AI & DevOps Enthusiast</b></h2>
 
 <h2><code>Turning ideas into intelligent applications 🤖</code></h2>
 
